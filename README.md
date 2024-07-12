@@ -1,5 +1,9 @@
 
 
+
+https://github.com/user-attachments/assets/24abc19b-7d87-45a7-8f5f-6da014cc8b4e
+
+
 ## Face Recognition System
 
 This is a Python-based face recognition system that allows you to train a classifier on a dataset of faces, generate a dataset of face images, and detect faces in real-time using a webcam.
